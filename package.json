@@ -1,0 +1,24 @@
+{
+  "name": "file-mergery",
+  "version": "0.0.1",
+  "description": "Merges a set of files into a single file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/graymanto/file-merger.git"
+  },
+  "keywords": [
+    "file",
+    "merge",
+    "join"
+  ],
+  "author": "Graham Thomas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/graymanto/file-merger/issues"
+  },
+  "homepage": "https://github.com/graymanto/file-merger#readme"
+}
