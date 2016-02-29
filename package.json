@@ -20,5 +20,13 @@
   "bugs": {
     "url": "https://github.com/graymanto/file-merger/issues"
   },
-  "homepage": "https://github.com/graymanto/file-merger#readme"
+  "homepage": "https://github.com/graymanto/file-merger#readme",
+  "dependencies": {
+    "glob": "^7.0.0",
+    "promise-each": "^2.2.0"
+  },
+  "devDependencies": {
+    "checksum": "^0.1.1",
+    "jasmine": "^2.4.1"
+  }
 }
